@@ -1,0 +1,30 @@
+.search{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.search button{
+    cursor: pointer;
+    border: none;
+    background-color: #ffb4b4;
+    border-radius: 5px;
+}
+
+.search_field{
+    padding: 10px 15px;
+}
+
+.card{
+    padding: 30px;
+    background-color: #ffb4b4;
+    color: #ae7373;
+}
+
+.card_wrapper{
+    display: flex;
+    margin: 20px 0;
+    justify-content: center;
+}
